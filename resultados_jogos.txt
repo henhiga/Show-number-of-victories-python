@@ -1,0 +1,6 @@
+Corinthians:5:Palmeiras:1
+São Paulo:1:Corinthians:6
+Palmeiras:3:São Paulo:3
+Palmeiras:4:Guarani:5
+Guarani:1:Corinthians:2
+São Paulo:3:Guarani:4
